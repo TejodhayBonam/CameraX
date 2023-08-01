@@ -7,7 +7,7 @@ A modern & retina-friendly eCommerce website built with the aim to engage user e
 
 ## Preview:
 
-![Preview](CameraX-preview-website-by-Gulshan-Songara.png)
+![Preview](CameraX-preview-website.jpg)
 
 ## Features:
 
