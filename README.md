@@ -1,6 +1,6 @@
 ## CameraX - Camera Store - ECOM Website
 
-### [Demo Link](https://camerax.netlify.app/) 🔗
+
 
 A modern & retina-friendly eCommerce website built with the aim to engage user experience. It features an elegant & stylish design with a 3D Product Slider, Cart page, & much more.
 <br/>
@@ -27,7 +27,7 @@ A modern & retina-friendly eCommerce website built with the aim to engage user e
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshansongara/)** 
+- **Tejodhay Bonam** - **[Portfolio Website](http://www.tejodhay.com/)**, **[Linkedin](https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/)** 
 <br/>
 
 ## License:
